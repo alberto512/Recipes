@@ -20,7 +20,7 @@ function NavBarGroup() {
           <div className="div-nav-elements">
             <ul>
               <li>
-                <NavLink exact activeClassName="current" to="/">
+                <NavLink exact activeClassName="current" to="/RecipesWeb/">
                   Home
                 </NavLink>
               </li>
