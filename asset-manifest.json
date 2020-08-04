@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/RecipesWeb/static/css/main.a3c2c96e.chunk.css",
-    "main.js": "/RecipesWeb/static/js/main.ea1e63c9.chunk.js",
-    "main.js.map": "/RecipesWeb/static/js/main.ea1e63c9.chunk.js.map",
+    "main.js": "/RecipesWeb/static/js/main.39e3dc6f.chunk.js",
+    "main.js.map": "/RecipesWeb/static/js/main.39e3dc6f.chunk.js.map",
     "runtime-main.js": "/RecipesWeb/static/js/runtime-main.0c61faf2.js",
     "runtime-main.js.map": "/RecipesWeb/static/js/runtime-main.0c61faf2.js.map",
     "static/css/2.608e303d.chunk.css": "/RecipesWeb/static/css/2.608e303d.chunk.css",
     "static/js/2.cbf9e5af.chunk.js": "/RecipesWeb/static/js/2.cbf9e5af.chunk.js",
     "static/js/2.cbf9e5af.chunk.js.map": "/RecipesWeb/static/js/2.cbf9e5af.chunk.js.map",
     "index.html": "/RecipesWeb/index.html",
-    "precache-manifest.8e71f72fcc3fae40a02a9fbe9ddd7f5c.js": "/RecipesWeb/precache-manifest.8e71f72fcc3fae40a02a9fbe9ddd7f5c.js",
+    "precache-manifest.14519c64bf019dab8c82d14f30c92966.js": "/RecipesWeb/precache-manifest.14519c64bf019dab8c82d14f30c92966.js",
     "service-worker.js": "/RecipesWeb/service-worker.js",
     "static/css/2.608e303d.chunk.css.map": "/RecipesWeb/static/css/2.608e303d.chunk.css.map",
     "static/css/main.a3c2c96e.chunk.css.map": "/RecipesWeb/static/css/main.a3c2c96e.chunk.css.map",
@@ -24,6 +24,6 @@
     "static/css/2.608e303d.chunk.css",
     "static/js/2.cbf9e5af.chunk.js",
     "static/css/main.a3c2c96e.chunk.css",
-    "static/js/main.ea1e63c9.chunk.js"
+    "static/js/main.39e3dc6f.chunk.js"
   ]
 }
