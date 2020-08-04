@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap");
+
+.home {
+  height: 100%;
+}
+
+.title {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+  cursor: default;
+}
+
+.recipes {
+  color: #ffcc00;
+  font-size: 300px;
+  font-weight: 400;
+  font-family: "Dancing Script", cursive;
+}
+
+@media screen and (max-width: 500px) {
+  .recipes {
+    font-size: 900%;
+  }
+}

@@ -1,0 +1,23 @@
+.label {
+  color: black;
+}
+
+.custom-card {
+  right: 5%;
+  left: 5%;
+  width: 90%;
+  position: absolute;
+  top: 15%;
+}
+
+.card-header {
+  background-color: #ffcc00;
+}
+
+.card-body {
+  background-color: #ffeb99;
+}
+
+.custom-file-label {
+  z-index: 0 !important;
+}
