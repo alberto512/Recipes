@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/RecipesWeb/static/css/main.a3c2c96e.chunk.css",
-    "main.js": "/RecipesWeb/static/js/main.464fd814.chunk.js",
-    "main.js.map": "/RecipesWeb/static/js/main.464fd814.chunk.js.map",
+    "main.css": "/RecipesWeb/static/css/main.477ba1e0.chunk.css",
+    "main.js": "/RecipesWeb/static/js/main.6d735920.chunk.js",
+    "main.js.map": "/RecipesWeb/static/js/main.6d735920.chunk.js.map",
     "runtime-main.js": "/RecipesWeb/static/js/runtime-main.0c61faf2.js",
     "runtime-main.js.map": "/RecipesWeb/static/js/runtime-main.0c61faf2.js.map",
     "static/css/2.608e303d.chunk.css": "/RecipesWeb/static/css/2.608e303d.chunk.css",
-    "static/js/2.cbf9e5af.chunk.js": "/RecipesWeb/static/js/2.cbf9e5af.chunk.js",
-    "static/js/2.cbf9e5af.chunk.js.map": "/RecipesWeb/static/js/2.cbf9e5af.chunk.js.map",
+    "static/js/2.1f5dc312.chunk.js": "/RecipesWeb/static/js/2.1f5dc312.chunk.js",
+    "static/js/2.1f5dc312.chunk.js.map": "/RecipesWeb/static/js/2.1f5dc312.chunk.js.map",
     "index.html": "/RecipesWeb/index.html",
-    "precache-manifest.2132d08b74cdc0de3cc0dc75627edd76.js": "/RecipesWeb/precache-manifest.2132d08b74cdc0de3cc0dc75627edd76.js",
+    "precache-manifest.cd3619b73f7dc22d85f687c11d0a7886.js": "/RecipesWeb/precache-manifest.cd3619b73f7dc22d85f687c11d0a7886.js",
     "service-worker.js": "/RecipesWeb/service-worker.js",
     "static/css/2.608e303d.chunk.css.map": "/RecipesWeb/static/css/2.608e303d.chunk.css.map",
-    "static/css/main.a3c2c96e.chunk.css.map": "/RecipesWeb/static/css/main.a3c2c96e.chunk.css.map",
-    "static/js/2.cbf9e5af.chunk.js.LICENSE.txt": "/RecipesWeb/static/js/2.cbf9e5af.chunk.js.LICENSE.txt",
+    "static/css/main.477ba1e0.chunk.css.map": "/RecipesWeb/static/css/main.477ba1e0.chunk.css.map",
+    "static/js/2.1f5dc312.chunk.js.LICENSE.txt": "/RecipesWeb/static/js/2.1f5dc312.chunk.js.LICENSE.txt",
     "static/media/App.css": "/RecipesWeb/static/media/Background.b8e0d132.jpg",
     "static/media/NavBar.css": "/RecipesWeb/static/media/NavBarBackground.ad5aa8cc.jpg",
     "static/media/mdb.css": "/RecipesWeb/static/media/arrow_right.8ef6a08c.svg",
@@ -22,8 +22,8 @@
   "entrypoints": [
     "static/js/runtime-main.0c61faf2.js",
     "static/css/2.608e303d.chunk.css",
-    "static/js/2.cbf9e5af.chunk.js",
-    "static/css/main.a3c2c96e.chunk.css",
-    "static/js/main.464fd814.chunk.js"
+    "static/js/2.1f5dc312.chunk.js",
+    "static/css/main.477ba1e0.chunk.css",
+    "static/js/main.6d735920.chunk.js"
   ]
 }
