@@ -155,7 +155,7 @@ class RecipeCard extends Component {
                   auxstr += "...";
                 }
                 cont++;
-                let auxstr2 = "/info/" + value.id;
+                let auxstr2 = "/RecipesWeb/info/" + value.id;
                 auxstr2 = auxstr2.replace(" ", "");
                 return (
                   <Card className="recipe" key={index}>

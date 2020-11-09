@@ -25,12 +25,20 @@ function NavBarGroup() {
                 </NavLink>
               </li>
               <li>
-                <NavLink exact activeClassName="current" to="/recipes">
+                <NavLink
+                  exact
+                  activeClassName="current"
+                  to="/RecipesWeb/recipes"
+                >
                   Recipes
                 </NavLink>
               </li>
               <li>
-                <NavLink exact activeClassName="current" to="/create">
+                <NavLink
+                  exact
+                  activeClassName="current"
+                  to="/RecipesWeb/create"
+                >
                   Create
                 </NavLink>
               </li>
