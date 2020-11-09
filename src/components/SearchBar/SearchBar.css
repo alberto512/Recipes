@@ -54,6 +54,7 @@
   width: 84px;
   height: 96px;
   cursor: pointer;
+  outline: none !important;
 }
 
 .button-bar:hover {

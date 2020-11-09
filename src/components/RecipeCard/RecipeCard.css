@@ -9,8 +9,19 @@
   margin-right: 6% !important;
 }
 
+.recipe_hidden {
+  margin-left: 6% !important;
+  margin-right: 6% !important;
+  visibility: hidden;
+}
+
 .recipe:hover {
   -webkit-box-shadow: -1px 9px 40px -12px rgba(0, 0, 0, 1);
   -moz-box-shadow: -1px 9px 40px -12px rgba(0, 0, 0, 1);
   box-shadow: -1px 9px 40px -12px rgba(0, 0, 0, 1);
+}
+
+.wrap {
+  text-align: center;
+  width: 100vw !important;
 }

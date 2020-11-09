@@ -2,7 +2,7 @@ import React from "react";
 import NavBarGroup from "../components/NavBar/NavBarGroup";
 import FormComponent from "../components/Form/Form";
 
-const Crate = () => {
+const Create = () => {
   return (
     <React.Fragment>
       <NavBarGroup />
@@ -11,4 +11,4 @@ const Crate = () => {
   );
 };
 
-export default Crate;
+export default Create;

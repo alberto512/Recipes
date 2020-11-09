@@ -4,6 +4,7 @@ import { Switch, Route } from "react-router-dom";
 import Home from "./pages/Home";
 import Recipes from "./pages/Recipes";
 import Create from "./pages/Create";
+import Info from "./pages/Info";
 import "@fortawesome/fontawesome-free/css/all.min.css";
 import "mdbreact/dist/css/mdb.css";
 
@@ -14,6 +15,7 @@ function App() {
         <Route exact path="/RecipesWeb/" component={Home}></Route>
         <Route exact path="/recipes" component={Recipes}></Route>
         <Route exact path="/create" component={Create}></Route>
+        <Route exact path="/info/:id" component={Info}></Route>
       </Switch>
     </div>
   );
